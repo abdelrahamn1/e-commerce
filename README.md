@@ -32,4 +32,4 @@ Search functionality enables users to easily find specific products by entering 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/e-commerce-app.git
+   git clone https://github.com/abdelrahamn1/e-commerce.git
